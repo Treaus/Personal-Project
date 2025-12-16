@@ -1,5 +1,5 @@
 # Personal-Project
-# ML Engineering Portfolio
+
 
 ## Quick Overview
 A hands-on implementation of 7 core ML/AI domains with production-ready code, benchmarks, and deployment examples.
